@@ -13,15 +13,12 @@ with a WiFi camera module mounted on the roof.
 
 **Box:**
 
-![FPV Car packaging](assets/fpv_car_box.jpg)
+![FPV Car packaging](assets/fpv_car_box.jpg width="300")
 
 **The car:**
 
-![FPV Car with camera module](assets/fpv_car_toy.jpg)
+![FPV Car with camera module](assets/fpv_car_toy.jpg width="300")
 
-> **Note:** the two photos above are placeholders — save your own product
-> photos into `assets/fpv_car_box.jpg` and `assets/fpv_car_toy.jpg` (same
-> filenames) and they'll show up here automatically.
 
 The car has its own WiFi module built into the camera unit on the roof. It
 either broadcasts its own WiFi network (most common for this kind of toy) or
@@ -84,14 +81,7 @@ set to an English layout, then drive:
 | `P` | save a screenshot of the current camera frame to `assets/` |
 | `Q` / `ESC` | quit (also stops the car safely first) |
 
-## What the camera feed looks like
 
-![Example camera feed once connected](assets/camera_feed_example.png)
-
-> This is a placeholder. Once you're connected and driving, press **P** in
-> the control window — it saves a real screenshot of the live feed into
-> `assets/camera_feed_<timestamp>.png`. Rename one to
-> `camera_feed_example.png` to have it show up here.
 
 ## How the connection actually works
 
@@ -116,6 +106,3 @@ repository builds semi-autonomous navigation on top of it:
 2. Turn that into an obstacle/time-to-collision warning.
 3. Use that warning to assist or override manual steering.
 4. Build a map of where the car has been, so it can find its way home.
-
-See `connect_wifi_car.py`, `depth_runtime.py`, and `config.py` for those
-later steps.
