@@ -13,11 +13,11 @@ with a WiFi camera module mounted on the roof.
 
 **Box:**
 
-![FPV Car packaging](assets/fpv_car_box.jpg width="300")
+<img src="assets/fpv_car_box.jpg" alt="FPV Car packaging" width="300">
 
 **The car:**
 
-![FPV Car with camera module](assets/fpv_car_toy.jpg width="300")
+<img src="assets/fpv_car_toy.jpg" alt="FPV Car with camera module" width="300">
 
 
 The car has its own WiFi module built into the camera unit on the roof. It
