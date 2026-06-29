@@ -11,14 +11,12 @@ obstacle detection, mapping) is built on top of.
 This was built and tested against a cheap "Tech FPV Car" — a small RC car
 with a WiFi camera module mounted on the roof.
 
-**Box:**
-
-<img src="assets/fpv_car_box.jpg" alt="FPV Car packaging" width="300">
-
-**The car:**
-
-<img src="assets/fpv_car_toy.jpg" alt="FPV Car with camera module" width="300">
-
+<table>
+  <tr>
+    <td align="center"><strong>Box</strong><br><img src="assets/fpv_car_box.jpg" alt="FPV Car packaging" width="300"></td>
+    <td align="center"><strong>The car</strong><br><img src="assets/fpv_car_toy.jpg" alt="FPV Car with camera module" width="300"></td>
+  </tr>
+</table>
 
 The car has its own WiFi module built into the camera unit on the roof. It
 either broadcasts its own WiFi network (most common for this kind of toy) or
